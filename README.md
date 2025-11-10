@@ -1,4 +1,4 @@
-# 🧠 Hugging Face Sentiment Fine-Tuning Demo
+# 🧠 Hugging Face Sentiment Fine-Tuning
 
 ## Overview
 
