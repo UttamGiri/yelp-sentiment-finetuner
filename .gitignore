@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+hf-sentiment-output/
+logs/
+eval-temp/
+data/review_predictions.csv
+.DS_Store
